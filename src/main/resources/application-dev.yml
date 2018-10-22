@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+girl:
+  name: gg
+  age: 10
+  address: xxx
+
+
+content: "${server.port}"
